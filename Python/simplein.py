@@ -5,3 +5,4 @@ def simplein():
     t=int(input("enter value="))
     print(p*r*t)
 simplein()
+print('hello world')
