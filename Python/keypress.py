@@ -14,6 +14,7 @@ def turn_left():
 def exit():
     window.bye()
 window.onkey(move, 'space')
+window.onkey(turn_left, 'shift')
 window.onkey(exit, 'q')
 
 window.listen()
