@@ -8,6 +8,7 @@ multiline
 comment*/
 int main()
 {
-    cout<<"Hello world";
+    int sum=6;
+    cout<<"Hello world"<<sum;
     return 0;
 }
