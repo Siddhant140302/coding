@@ -8,6 +8,5 @@ int main()
     cout<<"This is tutorial 4. The value of a is "<<a<<". \nThe value of b is "<<b;
     cout<<"\nThe value of pi is. "<<pi;
     cout<<"\nThe value of c is: "<<c;
-    return 0;
-    
+    return 0;   
 }
