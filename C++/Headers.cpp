@@ -4,7 +4,8 @@ using namespace std;
 // 1. System header files: it is written by the programmer
 // 2. user defined header files: it is written by the programmer
 int main()
-{ 
+{
+ 
     int a=4,b=3;
     cout<<"Following are the operators in C++";
     //Arithmetic operators
