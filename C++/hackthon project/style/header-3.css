@@ -4,10 +4,12 @@
    
   .site-header {
     position: relative;
-    background-color: #339eeb;
+    background-color: #ffffff00;
    
   }
-   
+  ul{
+    list-style-type: none;
+}
   .site-header__end {
     display: flex;
     align-items: center; }
@@ -24,6 +26,7 @@
         padding-bottom: 0; } }
   @media (min-width: 800px) {
     .nav__wrapper {
+       
       display: flex; } }
    
   @media (max-width: 799px) {
@@ -33,7 +36,7 @@
       right: 0;
       left: 0;
       z-index: -1;
-      background-color: #d9f0f7;
+      background-color: #ffffff;
       visibility: hidden;
       opacity: 0;
       transform: translateY(-100%);
@@ -106,4 +109,4 @@
       padding: 0.5rem; }
       @media (max-width: 799px) {
         .search__form input {
-          border-bottom: 1px solid #979797; } }
+          border-bottom: 1px solid #ffffff; } }
